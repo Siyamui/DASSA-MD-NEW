@@ -47,7 +47,7 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?button-url=https://github.com/Dassa20077/DASSA-MD-V2&template=https://github.com/Dassa20077/DASSA-MD-V2.git ' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://dashboard.heroku.com/new?button-url=https://github.com/Dassa17/DASSA-MD-NEW&template=https://github.com/Dassa17/DASSA-MD-NEW.git ' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
 #### DEPLOY TO KOYEB 
 
