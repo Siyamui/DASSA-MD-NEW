@@ -1,0 +1,37 @@
+{
+  "name": "DASSSA MD",
+  "description": "Javascript WhatsApp bot",
+  "logo": "https://camo.githubusercontent.com/8de3301f35f91a85f0be5f58c84a7cf8581b73f5810e0434d96dec49d7d6f1c0/68747470733a2f2f66696c65732e636174626f782e6d6f652f6d33727076722e706e67",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },
+ "REJECT_CALL": {
+      "description": "true or false",
+      "required": false
+    },
+"MODE": {
+      "description": "public or private",
+      "required": false
+    } ,
+"AUTO_RECORDING": {
+      "description": "true or false",
+      "required": false
+    } ,
+    "AUTO_STATUS_READ": {
+      "description": "true or false",
+      "required": false
+    } 
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
